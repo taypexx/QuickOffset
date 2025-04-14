@@ -6,7 +6,7 @@ using Main = QuickOffset.Main;
 [assembly: MelonGame("PeroPeroGames", "MuseDash")]
 
 [assembly: AssemblyTitle("QuickOffset")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Allows you to quickly change your offset in the custom menu")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Muse Dash Modding Community")]
 [assembly: AssemblyProduct("QuickOffset")]
