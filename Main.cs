@@ -53,7 +53,7 @@ namespace QuickOffset
         {
             isMenuScene = sceneName == "UISystem_PC";
 
-            if (sceneName == "UISystem_PC")
+            if (isMenuScene)
             {
                 OffsetUI.CreateUI();
             }
